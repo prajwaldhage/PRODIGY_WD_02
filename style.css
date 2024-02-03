@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+}
+
+.heading{
+    color: aqua;
+    text-align: center;
+}
+
+#stopwatch {
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    background-color: black;
+}
+
+#controls {
+    margin-top: 20px;
+    text-align: center;
+    background-color: black;
+    padding: 2px;
+}
+
+button {
+    font-size: 24px;
+    padding: 10px 20px;
+    border-radius: 20%;
+}
